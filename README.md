@@ -1,4 +1,4 @@
-## 소통에 가치를 두는 주니어 프론트엔드 개발자 유성은입니다!  
+# 소통에 가치를 두는 주니어 프론트엔드 개발자 유성은입니다!  
 <div>
 <a href="https://ddvuutk.tistory.com/">
   <img src="https://img.shields.io/badge/Tistory-000000?style=flat&logo=Tistory&logoColor=white"/>
@@ -13,7 +13,7 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSeongSilver&count_bg=%233D81C8&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 </div>
 
-# Skills  
+## Skills  
 
 #### Platform & Languages
 
