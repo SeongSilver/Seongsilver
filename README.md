@@ -23,7 +23,7 @@
 
 #### Framework & Library
 
-<img src="https://img.shields.io/badge/react-61DAFB?style=flat&logo=react&logoColor=white"/>  <img src="https://img.shields.io/badge/react query-61DAFB?style=flat&logo=react-query&logoColor=white"/>  <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=Next.js&logoColor=white"/>  <img src="https://img.shields.io/badge/Axios-5A29E4?style=flat&logo=Axios&logoColor=white"/> <img src="https://img.shields.io/badge/Redux-764ABC?style=flat&logo=Redux&logoColor=white"/>
+<img src="https://img.shields.io/badge/react-61DAFB?style=flat&logo=react&logoColor=white"/>  <img src="https://img.shields.io/badge/react Query-61DAFB?style=flat&logo=react-Query&logoColor=white"/>  <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=Next.js&logoColor=white"/>  <img src="https://img.shields.io/badge/Axios-5A29E4?style=flat&logo=Axios&logoColor=white"/> <img src="https://img.shields.io/badge/Redux-764ABC?style=flat&logo=Redux&logoColor=white"/>
   
 ### Style
  <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=flat&logo=Tailwind CSS&logoColor=white"/> <img src="https://img.shields.io/badge/Sass-CC6699?style=flat&logo=Sass&logoColor=white"/> <img src="https://img.shields.io/badge/styled-components-DB7093?style=flat&logo=styled-components&logoColor=white"/> 
