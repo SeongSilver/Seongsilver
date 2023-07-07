@@ -1,4 +1,4 @@
-# 주니어 프론트엔드 개발자 유성은입니다
+# 1년차 주니어 프론트엔드 개발자 유성은입니다
 <div>
 <a href="https://ddvuutk.tistory.com/">
   <img src="https://img.shields.io/badge/Tistory-000000?style=flat&logo=Tistory&logoColor=white"/>
